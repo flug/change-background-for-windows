@@ -1,0 +1,17 @@
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\bin\Release\ChangeMyBackground.exe.manifest
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\bin\Release\ChangeMyBackground.application
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\bin\Release\ChangeMyBackground.exe
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\bin\Release\ChangeMyBackground.pdb
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\bin\Release\HtmlAgilityPack.dll
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\bin\Release\HtmlAgilityPack.pdb
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\bin\Release\HtmlAgilityPack.xml
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\ChangeMyBackground.Form1.resources
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\ChangeMyBackground.Properties.Resources.resources
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\ChangeMyBackground.TrustInfo.xml
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\ChangeMyBackground.exe.manifest
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\ChangeMyBackground.application
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\ChangeMyBackground.exe
+C:\Users\stagiaire\Desktop\c#\ChangeMyBackground\ChangeMyBackground\obj\x86\Release\ChangeMyBackground.pdb
